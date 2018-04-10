@@ -1,0 +1,28 @@
+{
+  "name": "vue-scaffold",
+  "version": "1.0.0",
+  "description": "vue scaffold with ElementUI and Echarts",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RexYe/vue-scaffold.git"
+  },
+  "keywords": [
+    "vue",
+    "element",
+    "echarts"
+  ],
+  "author": "Shawn Ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RexYe/vue-scaffold/issues"
+  },
+  "homepage": "https://github.com/RexYe/vue-scaffold#readme"
+}
